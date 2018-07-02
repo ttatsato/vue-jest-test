@@ -80,6 +80,7 @@
         </a>
       </li>
     </ul>
+    {{msg2}}
   </div>
 </template>
 
